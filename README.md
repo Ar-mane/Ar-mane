@@ -117,6 +117,14 @@ Developer tooling focused on faster component generation & cleaner workflows.
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/abderrahmane-arache/)">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://discord.com/users/ar_mane">
+  <img src="https://skillicons.dev/icons?i=discord" />
+</a>
+
 <a href="mailto:abderrahmane.arache@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
